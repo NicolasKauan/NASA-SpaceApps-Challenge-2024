@@ -1,0 +1,26 @@
+HACKATHON – NASA SPACE APPS CHALLENGE
+ 
+Necessidade: Eu, como um agricultor de pequeno porte, necessito de um software/aplicação que permita-me identificar queimadas e/ou eventos climáticos anormais antes mesmo deles acontecerem para salvar minha safra de perdas, fazendo com que não perca meu dinheiro investido no plantio.
+1. Definição do Escopo
+Objetivo do Software: Nosso software visa facilitar a vida do pequeno, médio e grande produtor rural com o intuito de, através da “tradução” dos dados fornecidos pela NASA, passarmos de forma clara e objetiva previsões de queimadas ou outros eventos climáticos anormais que possam afetar sua safra.
+Propósito: Projetar soluções para eventos climáticos anormais e inesperados.
+2. Levantamento de Requisitos Funcionais
+ Objetivo: Um software baseado na visualização de dados, limpos e tratados, através do Power BI, transmitindo de forma clara por meio de gráficos, mapas de calor com pontos específicos, entre outros... Tudo isso de forma interativa, maleável e mais visual possível.
+ Protótipo: Uma aplicação extremamente visual e interativa, para que seja de fácil entendimento e uso.
+3. Levantamento de Requisitos Não Funcionais
+Performance: Um software leve, que não ocupe muito espaço, não consuma muito hardware
+Segurança: Proteção para os dados cadastrais do usuário.
+Usabilidade: A princípio, uma interface simples e intuitiva informando previsões de eventos climáticos inesperados. Contendo também opções avançadas como gráficos, estatísticas, notícias sobre o ramo, entre outras funcionalidades…
+Manutenção e Escalabilidade: Será mantido com base nos dados fornecidos e tratados pela NASA e sua escalabilidade se dará por conta de novas funcionalidades referentes a outros eventos climáticos.
+4. Requisitos Tecnológicos
+·        Plataformas: Flutter, com ele estaremos disponíveis em todas as plataformas Mobile e também poderemos estar disponível pela web.
+·        Tecnologias: Utilizando a linguagem de código aberto Dart estaremos abertos a todas as plataformas com custos muito baixos e atrativos, para a coleta de dados estaremos abertos a utilização de python para a automação e com o auxílio de PowerBI para tratamento de dados.  
+·        Infraestrutura: Com a possibilidade de ser utilizado em ampla escala em todo o globo estaremos com uma urgência extrema de servidores e uma ampla rede física para termos uma trativa de dados mais assertiva para todos os clientes.
+5. Recursos Necessários
+·        Hardware: Celular do usuário.
+6. Equipe
+·        Perfil da Equipe: Com desenvolvedor, design e geógrafos estaremos com uma equipe funcional para iniciarmos e avaliarmos o propósito e a viabilidade do desenvolvimento. 
+·        Tamanho da Equipe: pelo menos 3 desenvolvedores, 1 design e 1 geógrafo, um total de 5 pessoas é o mínimo para funcionar.
+7. Ferramentas para Levantamento
+·        Ferramentas de Prototipagem: Figma
+·        Funcionalidades avançadas: Power BI
